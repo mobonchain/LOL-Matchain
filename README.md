@@ -14,5 +14,6 @@
 ### Download LOL Matchain Automation Tool 
 • Download `.ZIP File` or using `Git` with  
 • ```bash
-git clone https://github.com/mobonchain/LOL-Matchain.git && cd LOL-Matchain  
+git clone https://github.com/mobonchain/LOL-Matchain.git && cd LOL-Matchain
+```  
 •
