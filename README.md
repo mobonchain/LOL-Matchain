@@ -16,3 +16,4 @@
 • Download `.ZIP File` or using `Git` with  
 ```
 git clone https://github.com/mobonchain/LOL-Matchain.git && cd LOL-Matchain
+• I recommend you use drive `D:\`
