@@ -8,5 +8,5 @@
 
 ## Getting Started
 ### Installing Node.js
-• Go to the [Node.js Official Download](https://nodejs.org/en) page and download the LTS
-• > Run the `.msi` file and follow the installation prompts
+• Go to the [Node.js Official Download](https://nodejs.org/en) page and download the LTS 
+• Run the `.msi` file and follow the installation prompts 
