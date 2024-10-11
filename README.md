@@ -17,4 +17,15 @@
 ```
 git clone https://github.com/mobonchain/LOL-Matchain.git && cd LOL-Matchain
 ```
-• I recommend you use drive `D:\`
+• I recommend you use drive `D:\`  
+
+### Run The Process
+• Install required libraries with the command  
+```
+npm install
+```
+• Then you just run it with the command  
+```
+node main.js
+```
+• Fill in __Private Key__ containing at least 2$ BNB and __Wallet to receive $LOL__
