@@ -1,3 +1,3 @@
-# LOL-Matchain
+# **LOL Matchain**
 
-## Introducing the tool LOL Matchain
+## Introducing the tool **LOL Matchain**
