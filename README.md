@@ -1,3 +1,3 @@
-# **LOL Matchain**
+# LOL Matchain :fire:
 
-## Introducing the tool **LOL Matchain**
+## Introducing The LOL Matchain Automation Tool
